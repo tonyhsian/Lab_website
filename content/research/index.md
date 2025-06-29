@@ -13,7 +13,7 @@ sections:
   - block: collection
     id: research
     content:
-      title: research
+      title: Research
       filters:
         folders:
           - research
