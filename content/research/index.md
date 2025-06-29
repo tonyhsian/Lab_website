@@ -1,6 +1,6 @@
 ---
 title: Research
-date: 2022-10-24
+summary: My courses
 type: landing
 
 cascade:
