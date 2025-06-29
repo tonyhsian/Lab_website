@@ -1,5 +1,5 @@
 ---
-title: Tour
+title: Photo
 date: 2022-10-24
 
 type: landing
