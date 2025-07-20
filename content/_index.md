@@ -10,11 +10,11 @@ sections:
       title: |
         Hsiao Lab
       image:
-        filename: Lab_1.png
+        filename: Lab_3.png
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        in 2025.
   
   - block: collection
     content:
@@ -44,7 +44,7 @@ sections:
       columns: '1'
       background:
         image: 
-          filename: coders.jpg
+          filename: Lab_4.png
           filters:
             brightness: 1
           parallax: false
