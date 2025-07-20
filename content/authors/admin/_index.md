@@ -14,7 +14,7 @@ role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
-  - name: Department of Electrophysics, National Yang Ming Chiao Tung University
+  - name: tonyhsian@gmail.com
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
@@ -61,7 +61,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'tonyhsian@gmail.com'
+email: ''
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
