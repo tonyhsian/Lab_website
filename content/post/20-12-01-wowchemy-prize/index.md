@@ -1,6 +1,6 @@
 ---
-title: Richard Hendricks Wins First Place in the Wowchemy Prize
-date: 2020-12-01
+title: Starting the Lab
+date: 2025-08-01
 ---
 
 Congratulations to Richard Hendricks for winning first place in the Wowchemy Prize.

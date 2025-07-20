@@ -6,8 +6,12 @@ title: Yi-Teng Hsiao 蕭翌登
 first_name: Yi-Teng
 last_name: Hsiao
 
+# Username (this should match the folder name)
+authors:
+  - admin
+
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
 role: Assistant Professor
