@@ -10,7 +10,7 @@ sections:
       title: |
         Hsiao Lab
       image:
-        filename: Lab_3.jpg
+        filename: Lab_1.png
       text: |
         <br>
         
