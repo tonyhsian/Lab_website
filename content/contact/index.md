@@ -13,15 +13,15 @@ sections:
       email: test@example.org
       phone: 888 888 88 88
       address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
-        country_code: US
+        street: 東區大學路1001號
+        city: 新竹市
+        region: 
+        postcode: '300'
+        country: Taiwan
+        country_code: TW
       coordinates:
-        latitude: '37.4275'
-        longitude: '-122.1697'
+        latitude: '24.7882255'
+        longitude: '120.9934156'
       directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
       office_hours:
         - 'Monday 10:00 to 13:00'
