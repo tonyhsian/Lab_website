@@ -1,6 +1,6 @@
 ---
 title: Starting the Lab
-date: 2025-08-01
+date: 2025-07-01
 #image:
 #  focal_point: 'top'
 ---
