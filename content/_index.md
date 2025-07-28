@@ -8,12 +8,12 @@ sections:
   - block: hero
     content:
       title: |
-        Hsiao Lab
+        Welcome to Hsiao Lab@NYCU
       image:
         filename: Lab_1.png
       text: |
         <br>
-        
+        The Hsiao Lab is in the 
         in 2025.
   
   - block: markdown
