@@ -13,8 +13,7 @@ sections:
         filename: Lab_1.png
       text: |
         <br>
-        The Hsiao Lab is in the 
-        in 2025.
+        We are developing innovative optical microscope techniques.
   
   - block: markdown
     content:
