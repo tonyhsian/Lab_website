@@ -53,7 +53,10 @@ sections:
     design:
       view: card
       columns: '2'
-  
+
+banner:
+  caption: ''
+  image: 'Banner.png'  
 
 #  - block: collection
 #    content:
