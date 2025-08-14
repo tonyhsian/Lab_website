@@ -7,7 +7,4 @@ date: 2025-08-01
 
 Starting the Lab
 
-<!--more-->
-
-
 
