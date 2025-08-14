@@ -7,9 +7,9 @@ type: landing
 sections:
   - block: contact
     content:
-      title: Contact
-      text: |-
-        We
+      #title: Contact
+      #text: |-
+      #  We
       email: yitenghsiao@nycu.edu.tw
       phone: (03)5712121 /#56127
       address:
