@@ -9,22 +9,20 @@ sections:
     content:
       #title: Contact
       text: 
-        If you are interested in joining us, please contact me. 
-        yitenghsiao@nycu.edu.tw (Dr. Yi-Teng Hsiao)
-
+        If you are interested in joining us, please contact me (Dr. Yi-Teng Hsiao).
+      
+      email: yitenghsiao@nycu.edu.tw
+      phone: '+886-3-5712121 #56127'
       address:
         street: NYCU Electrophysics, No 1001, University Rd.
         city: Hsinchu
         region: Taiwan
         postcode: '300'
-        country: Taiwan
-        country_code: TW
+      directions: Science Building III
       coordinates:
         latitude: '24.7882255'
         longitude: '120.9934156'
-      directions: Science Building III
-      phone: +886-3-5712121 \#56127
-      email: yitenghsiao@nycu.edu.tw
+      
       #office_hours:
       #  - 'Monday 10:00 to 13:00'
       #  - 'Wednesday 09:00 to 10:00'
