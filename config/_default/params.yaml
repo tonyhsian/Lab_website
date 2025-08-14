@@ -38,8 +38,8 @@ header:
     align: r
     show_logo: true
     show_language: false
-    show_day_night: true
-    show_search: true
+    show_day_night: false
+    show_search: false
     highlight_active_link: false
 
 # Site footer
@@ -83,7 +83,7 @@ features:
     provider: ''
     disqus:
       shortname: ''
-      show_count: true
+      show_count: false
     commento:
       url: ''
     giscus:
@@ -99,7 +99,7 @@ features:
       index_name: ''
       show_logo: false
   map:
-    provider: 'mapnik'
+    provider: 'google'
     api_key: ''
     zoom: 15
 
