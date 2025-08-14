@@ -52,6 +52,7 @@ footer:
       allow_derivatives: false
       share_alike: false
       allow_commercial: false
+  share: false
 
 # Localization
 
@@ -99,7 +100,7 @@ features:
       index_name: ''
       show_logo: false
   map:
-    provider: 'google'
+    provider: 'mapnik'
     api_key: ''
     zoom: 15
 
