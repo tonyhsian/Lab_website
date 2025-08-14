@@ -2,8 +2,8 @@
 title: DYNAMICS imaging
 summary: summary
 #date: 2025-08-01
-#image:
-#  focal_point: 'top'
+image:
+  focal_point: 'top'
 ---
 
 Nano-Optics & Biophysics lab is starting on Aug 1, 2025. 
