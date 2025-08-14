@@ -23,8 +23,8 @@ publishDate: "2012-05-17T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Applied Physics Letters 100, 203702 "
-publication_short: "Appl. Phys. Lett. 100, 203702 (2012)"
+publication: "Applied Physics Letters 100, 203702 (2012)"
+publication_short: "Appl. Phys. Lett. 100, 203702"
 
 abstract: We experimentally investigate the collective dynamics in bacterial carpet microfluidic channel. The microfluidic channel is composed of single polar flagellated Vibrio alginolyticus deposited glass substrates. The individual flagellum swimming speed is tuned by varying buffer sodium concentration. Hydrodynamic coupling strength is tuned by varying buffer viscosity. The attached bacteria constantly perform two major modes in flagellum motion, namely, the local rotation and large angle flick. Particle tracking statistics shows high flagellum rotational rate and strong hydrodynamic coupling strength lead to collective sub-diffusive dynamics. The observed effect is strongly correlated to hydrodynamic coupling of flick motions between nearby bacteria.
 

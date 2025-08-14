@@ -22,8 +22,8 @@ publishDate: "2014-11-18T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Applied Physics Letters 105, 203702"
-publication_short: "Appl. Phys. Lett. 105, 203702 (2014)"
+publication: "Applied Physics Letters 105, 203702 (2014)"
+publication_short: "Appl. Phys. Lett. 105, 203702"
 
 abstract: Bacterial carpets consist of randomly anchored uni-polar-flagellated sodium-motive bacterial matrix are prepared by flow deposition. Collective flow dynamics across the bacterial carpets are probed with optical tweezers-microsphere assay. Around the center of a uniform bacterial cluster, collective forces that pull microsphere towards carpet surface are detected at a distance of 10 μm away from carpets. At sodium-motive driving over a critical value, the force magnitudes increase abruptly, suggesting a threshold-like transition of hydrodynamic synchronization across bacterial carpet. The abrupt force increase is explained in term of bifurcation to phase synchronization in a noisy non-linearly coupled rotor array mediated by hydrodynamic interactions.
 

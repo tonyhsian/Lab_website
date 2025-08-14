@@ -19,8 +19,8 @@ publishDate: "2018-11-26T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Physical Review E 98, 052407"
-publication_short: "Phys. Rev. E 98, 052407 (2018)"
+publication: "Physical Review E 98, 052407 (2018)"
+publication_short: "Phys. Rev. E 98, 052407"
 
 abstract: The origin of entrapment of microswimmers near a solid surface is investigated experimentally. We report observations on cell entrapment of pusher, puller, and bimodal Vibrio alginolyticus near a glass surface in a custom made microchannel. We find that all the investigated bacterial strains can be entrapped near surface, regardless of their swimming modes. Furthermore, the near-surface cell concentration of pushers is reduced, while more significant entrapment was observed for pullers as the swimming speed increases. Interestingly, for the bimodal bacterial strain that could switch from pusher to puller through a reversed rotation of the flagellum, the near-surface entrapment appears to have no dependence on swimming speed. We propose a qualitative explanation to the observation, based on forces balance between steric, near-field, and dipolar-field hydrodynamic interactions.
 

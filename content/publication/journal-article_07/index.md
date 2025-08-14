@@ -1,5 +1,5 @@
 ---
-title: "Enhancing Cancer Cell Collective Motion and Speeding up Confluent Endothelial Dynamics through Cancer Cell Invasion and Aggregation"
+title: "Impurity-tuned non-equilibrium phase transition in a bacterial carpet"
 authors:
 - Yi-Teng Hsiao
 - Kuan-Ting Wu
@@ -20,8 +20,8 @@ publishDate: "2016-05-05T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Applied Physics Letters 108, 183701"
-publication_short: "Appl. Phys. Lett. 108, 183701 (2016)"
+publication: "Applied Physics Letters 108, 183701 (2016)"
+publication_short: "Appl. Phys. Lett. 108, 183701"
 
 abstract: The effects of impurity on the non-equilibrium phase transition in Vibrio alginolyticus bacterial carpets are investigated through a position-sensitive-diode implemented optical tweezers-microsphere assay. The collective flow increases abruptly as we increase the rotation rate of flagella via Na+ concentration. The effects of impurities on the transition behavior are examined by mixing cells of a wild type strain (VIO5) with cells of a mutant strain (NMB136) in different swimming patterns. For dilute impurities, the transition point is shifted toward higher Na+ concentration. Increasing the impurities' ratio to over 0.25 leads to a significant drop in the collective force, suggesting a partial orientational order with a smaller correlation length.
 

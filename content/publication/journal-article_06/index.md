@@ -1,5 +1,5 @@
 ---
-title: "Impurity-tuned non-equilibrium phase transition in a bacterial carpet"
+title: "Enhancing Cancer Cell Collective Motion and Speeding up Confluent Endothelial Dynamics through Cancer Cell Invasion and Aggregation"
 authors:
 - Hsiang-Ying Chen
 - Yi-Teng Hsiao
@@ -22,8 +22,8 @@ publishDate: "2018-07-03T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Physical Review Letters 121, 018101"
-publication_short: "Phys. Rev. Lett. 121, 018101 (2018)"
+publication: "Physical Review Letters 121, 018101 (2018)"
+publication_short: "Phys. Rev. Lett. 121, 018101"
 
 abstract: We report the experimental observation of speeded-up collective motion of the monolayer endothelia-cancer mixture on a collagen-coated substrate, after the invasion of a small fraction of motile cancer cells into the confluent endothelial monolayer, through disrupting cell-cell junctions. It is found that, with an increasing waiting time, the cancer-free confluent endothelial monolayer exhibits a dynamical slowing-down of liquidlike micromotion with a gradually decreasing degree of superdiffusion. After invasion, cancer cells aggregate and exhibit turbulentlike cooperative motion, which is enhanced with the increasing size of gradually aggregated cancer clusters, confined by the fluctuating boundaries of surrounding endothelial cells. It, in turn, enhances the surrounding endothelial cell motion and speeds up the originally slowed-down motion.
 

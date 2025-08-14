@@ -20,8 +20,8 @@ publishDate: "2022-06-24T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "ACS Photonics 9 (7), 2237-2245"
-publication_short: "ACS Photonics 9 (7), 2237-2245 (2022)"
+publication: "ACS Photonics 9 (7), 2237-2245 (2022)"
+publication_short: "ACS Photonics 9 (7), 2237-2245"
 
 abstract: Optical interference microscopy is a powerful bioimaging technique by measuring the complex light fields associated with the specimen. Nowadays, the state-of-the-art interference microscopy makes it possible to directly visualize very small single biological nanoparticles and unlabeled macromolecules. The stable and indefinite linear scattering signal allows for continuous observation of the sample at a high speed, offering the opportunities to investigate single-molecule biophysics with the unprecedented details. Meanwhile, using interference microscopy to explore complex biological samples, such as a biological cell, emerges as an exciting research field. In this Perspective, we share our views on the impacts of optical interference microscopy on live cell imaging. Strategies for discriminating the scattering signals from different cell organelles and biological macromolecules are presented. In particular, the dynamic optical signal of live cells contains rich temporal information that is useful for enhancing the molecular specificity and functional information in label-free cell imaging. Finally, the challenges in three-dimensional imaging and turbidity suppression are discussed.
 
