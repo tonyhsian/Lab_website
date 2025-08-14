@@ -9,7 +9,7 @@ sections:
     content:
       #title: Contact
       text: 
-        If you are interested in joining us, please contact me (Dr. Yi-Teng Hsiao).
+        If you are interested in joining us, please contact me (Prof. Yi-Teng Hsiao).
       
       email: yitenghsiao@nycu.edu.tw
       phone: '+886-3-5712121 #56127'

@@ -48,7 +48,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
+    link: ''
 #  - icon: twitter
 #    icon_pack: fab
 #    link: https://twitter.com/GeorgeCushen
@@ -73,4 +73,4 @@ user_groups:
   - Students
 ---
 
-...
+If you are interested in joining us, please contact me (Prof. Yi-Teng Hsiao).
