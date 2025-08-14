@@ -5,6 +5,8 @@ date: 2025-08-01
 #  focal_point: 'top'
 ---
 
-Starting the Lab
+Nano-Optics & Biophysics lab is starting on Aug 1, 2025. 
+
+<!--more-->
 
 
