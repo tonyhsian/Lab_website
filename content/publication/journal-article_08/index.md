@@ -1,19 +1,20 @@
 ---
-title: "Spinning disk interferometric scattering confocal microscopy captures millisecond timescale dynamics of living cells"
+title: "Collective flow dynamics across a bacterial carpet: Understanding the forces generated"
 authors:
 - Yi-Teng Hsiao
-- Tsai-Ying Wu 
-- Bo-Kuan Wu
-- Shi-Wei Chu
-- Chia-Lung Hsieh 
+- Jing-Hui Wang
+- Kuan-Ting Wu
+- Jengjan Tsai
+- Cheng-Hung Chang
+- Wei-Yen Woon
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2022-11-01T00:00:00Z"
-doi: "10.1364/OE.471935"
+#- "Equal contribution"
+#- "Equal contribution"
+date: "2014-11-18T00:00:00Z"
+doi: "10.1063/1.4902111"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2022-11-01T00:00:00Z"
+publishDate: "2014-11-18T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -21,16 +22,16 @@ publishDate: "2022-11-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Optics Express 30, 45233-45245"
-publication_short: "Opt. Express 30, 45233-45245 (2022)"
+publication: "Applied Physics Letters 105, 203702"
+publication_short: "Appl. Phys. Lett. 105, 203702 (2014)"
 
-abstract: Interferometric scattering (iSCAT) microscopy is a highly sensitive imaging technique that uses common-path interferometry to detect the linear scattering fields associated with samples. However, when measuring a complex sample, such as a biological cell, the superposition of the scattering signals from various sources, particularly those along the optical axis of the microscope objective, considerably complicates the data interpretation. Herein, we demonstrate high-speed, wide-field iSCAT microscopy in conjunction with confocal optical sectioning. Utilizing the multibeam scanning strategy of spinning disk confocal microscopy, our iSCAT confocal microscope acquires images at a rate of 1,000 frames per second (fps). The configurations of the spinning disk and the background correction procedures are described. The iSCAT confocal microscope is highly sensitive—individual 10 nm gold nanoparticles are successfully detected. Using high-speed iSCAT confocal imaging, we captured the rapid movements of single nanoparticles on the model membrane and single native vesicles in the living cells. Label-free iSCAT confocal imaging enables the detailed visualization of nanoscopic cell dynamics in their most native forms. This holds promise to unveil cell activities that are previously undescribed by fluorescence-based microscopy.
+abstract: Bacterial carpets consist of randomly anchored uni-polar-flagellated sodium-motive bacterial matrix are prepared by flow deposition. Collective flow dynamics across the bacterial carpets are probed with optical tweezers-microsphere assay. Around the center of a uniform bacterial cluster, collective forces that pull microsphere towards carpet surface are detected at a distance of 10 μm away from carpets. At sodium-motive driving over a critical value, the force magnitudes increase abruptly, suggesting a threshold-like transition of hydrodynamic synchronization across bacterial carpet. The abrupt force increase is explained in term of bifurcation to phase synchronization in a noisy non-linearly coupled rotor array mediated by hydrodynamic interactions.
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- iSCAT
+- bacteria
 featured: false
 
 # links:

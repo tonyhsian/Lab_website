@@ -1,18 +1,17 @@
 ---
-title: "Label-Free Dynamic Imaging of Chromatin in Live Cell Nuclei by High-Speed Scattering-Based Interference Microscop"
+title: "Entrapment of pusher and puller bacteria near a solid surface"
 authors:
+- Kuan-Ting Wu
 - Yi-Teng Hsiao
-- Chia-Ni Tsai
-- Te-Hsin Chen
-- Chia-Lung Hsieh 
+- Wei-Yen Woon
 author_notes:
 #- "Equal contribution"
 #- "Equal contribution"
-date: "2021-12-30T00:00:00Z"
-doi: "10.1021/acsnano.1c09748"
+date: "2018-11-26T00:00:00Z"
+doi: "10.1103/PhysRevE.98.052407"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2021-12-30T00:00:00Z"
+publishDate: "2018-11-26T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -20,16 +19,16 @@ publishDate: "2021-12-30T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "ACS Nano 16 (2), 2774-2788"
-publication_short: "ACS Nano 16 (2), 2774-2788"
+publication: "Physical Review E 98, 052407"
+publication_short: "Phys. Rev. E 98, 052407 (2018)"
 
-abstract: Chromatin is a DNA–protein complex that is densely packed in the cell nucleus. The nanoscale chromatin compaction plays critical roles in the modulation of cell nuclear processes. However, little is known about the spatiotemporal dynamics of chromatin compaction states because it remains difficult to quantitatively measure the chromatin compaction level in live cells. Here, we demonstrate a strategy, referenced as DYNAMICS imaging, for mapping chromatin organization in live cell nuclei by analyzing the dynamic scattering signal of molecular fluctuations. Highly sensitive optical interference microscopy, coherent brightfield (COBRI) microscopy, is implemented to detect the linear scattering of unlabeled chromatin at a high speed. A theoretical model is established to determine the local chromatin density from the statistical fluctuation of the measured scattering signal. DYNAMICS imaging allows us to reconstruct a speckle-free nucleus map that is highly correlated to the fluorescence chromatin image. Moreover, together with calibration based on nanoparticle colloids, we show that the DYNAMICS signal is sensitive to the chromatin compaction level at the nanoscale. We confirm the effectiveness of DYNAMICS imaging in detecting the condensation and decondensation of chromatin induced by chemical drug treatments. Importantly, the stable scattering signal supports a continuous observation of the chromatin condensation and decondensation processes for more than 1 h. Using this technique, we detect transient and nanoscopic chromatin condensation events occurring on a time scale of a few seconds. Label-free DYNAMICS imaging offers the opportunity to investigate chromatin conformational dynamics and to explore their significance in various gene activities.
+abstract: The origin of entrapment of microswimmers near a solid surface is investigated experimentally. We report observations on cell entrapment of pusher, puller, and bimodal Vibrio alginolyticus near a glass surface in a custom made microchannel. We find that all the investigated bacterial strains can be entrapped near surface, regardless of their swimming modes. Furthermore, the near-surface cell concentration of pushers is reduced, while more significant entrapment was observed for pullers as the swimming speed increases. Interestingly, for the bimodal bacterial strain that could switch from pusher to puller through a reversed rotation of the flagellum, the near-surface entrapment appears to have no dependence on swimming speed. We propose a qualitative explanation to the observation, based on forces balance between steric, near-field, and dipolar-field hydrodynamic interactions.
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- iSCAT
+- bacteria
 featured: false
 
 # links:
