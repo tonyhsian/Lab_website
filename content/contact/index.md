@@ -9,24 +9,24 @@ sections:
     content:
       title: Contact
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
-      email: test@example.org
-      phone: 888 888 88 88
+        We
+      email: yitenghsiao@nycu.edu.tw
+      phone: (03)5712121 /#56127
       address:
-        street: 東區大學路1001號
-        city: 新竹市
-        region: 
+        street: No 1001, University Rd.
+        city: Hsinchu
+        region: Science Building III
         postcode: '300'
         country: Taiwan
         country_code: TW
       coordinates:
         latitude: '24.7882255'
         longitude: '120.9934156'
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-      office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
-      appointment_url: 'https://calendly.com'
+      #directions: Science Building III
+      #office_hours:
+      #  - 'Monday 10:00 to 13:00'
+      #  - 'Wednesday 09:00 to 10:00'
+      #appointment_url: 'https://calendly.com'
       #contact_links:
       #  - icon: comments
       #    icon_pack: fas
