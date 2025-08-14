@@ -9,10 +9,11 @@ sections:
     content:
       #title: Contact
       text: 
-        If you are interested in joining us, please send your CV and career plan to yitenghsiao@nycu.edu.tw (Dr. Yi-Teng Hsiao)
+        If you are interested in joining us, please contact me. 
+        yitenghsiao@nycu.edu.tw (Dr. Yi-Teng Hsiao)
 
       address:
-        street: NYCU Electrophysics <br> No 1001, University Rd.
+        street: NYCU Electrophysics, No 1001, University Rd.
         city: Hsinchu
         region: Taiwan
         postcode: '300'
