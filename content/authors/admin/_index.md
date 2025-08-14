@@ -18,28 +18,29 @@ role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
-  - name: tonyhsian@gmail.com
+  - name: yitenghsiao@nycu.edu.tw
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Advanced optical microscopy
+  - Interferometric scattering microscopy
+  - Biophysics
+  - Soft matter physics
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Ph.D. in Physics
+      institution: National Central University
+      year: 2013/09 - 2017/02
+    - course: M.S. in Physics
+      institution: National Central University
+      year: 2012/09 - 2013/06
+    - course: B.S. in Physics
+      institution: National Central University
+      year: 2008/09 - 2012/06
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -48,13 +49,13 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:tonyhsian@gmail.com'
+    link: 'mailto:yitenghsiao@nycu.edu.tw'
 #  - icon: twitter
 #    icon_pack: fab
 #    link: https://twitter.com/GeorgeCushen
-#  - icon: google-scholar
-#    icon_pack: ai
-#    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=fxvV_A0AAAAJ&hl
 #  - icon: github
 #    icon_pack: fab
 #    link: https://github.com/gcushen
