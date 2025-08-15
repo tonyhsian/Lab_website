@@ -2,7 +2,7 @@
 title: Research
 
 # Listing view
-view: article-grid #compact
+view: compact
 
 # Optional banner image (relative to `assets/media/` folder).
 banner:

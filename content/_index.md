@@ -37,7 +37,26 @@ sections:
   
   - block: collection
     content:
-      title: Latest News
+      title: Research
+      subtitle:
+      text:
+      count: 3
+      filters:
+        author: ''
+        category: ''
+        exclude_featured: false
+        publication_type: ''
+        tag: ''
+      offset: 0
+      order: desc
+      page_type: research
+    design:
+      view: card
+      columns: '2' 
+
+  - block: collection
+    content:
+      title: News
       subtitle:
       text:
       count: 5
