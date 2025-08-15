@@ -122,7 +122,7 @@ sections:
       page_type: research
     design:
       view: card #stream
-      columns: '4' 
+      columns: '2' 
 
   - block: collection
     content:
