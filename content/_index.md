@@ -77,11 +77,11 @@ sections:
   - block: hero
     content:
       title: |
-        <font size="3"> Welcome to Hsiao Lab @ NYCU Electrophysics </font>
+        <font size="10"> Welcome to Hsiao Lab @ NYCU Electrophysics </font>
       image:
         filename: Lab_1.png
       text: |
-        <br><font size="1">
+        <br><font size="5">
         We are developing innovative optical microscope techniques. We are developing innovative optical microscope techniques.We are developing innovative optical microscope techniques.We are developing innovative optical microscope techniques.We are developing innovative optical microscope techniques.We are developing innovative optical microscope techniques.We are developing innovative optical microscope techniques.We are developing innovative optical microscope techniques.We are developing innovative optical microscope techniques.We are developing innovative optical microscope techniques.We are developing innovative optical microscope techniques.We are developing innovative optical microscope techniques.We are developing innovative optical microscope techniques.We are developing innovative optical microscope techniques.We are developing innovative optical microscope techniques.We are developing innovative optical microscope techniques.
         </font>
   
