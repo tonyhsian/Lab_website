@@ -85,7 +85,26 @@ sections:
         <br><font size="5">
         We are developing innovative optical microscope techniques. 
         </font>
-  
+
+  - block: collection
+    content:
+      title: News
+      subtitle:
+      text:
+      count: 1
+      filters:
+        author: ''
+        category: ''
+        exclude_featured: false
+        publication_type: ''
+        tag: ''
+      offset: 0
+      order: desc
+      page_type: post
+    design:
+      view: stream #card
+      columns: '2' 
+
   - block: collection
     content:
       title: Research
@@ -107,35 +126,16 @@ sections:
 
   - block: collection
     content:
-      title: News
-      subtitle:
-      text:
+      title: Latest Publication
+      text: ""
       count: 1
       filters:
-        author: ''
-        category: ''
-        exclude_featured: false
-        publication_type: ''
-        tag: ''
-      offset: 0
-      order: desc
-      page_type: post
+        folders:
+          - publication
+        publication_type: 'article-journal'
     design:
-      view: card
-      columns: '2' 
-
-#  - block: collection
-#    content:
-#      title: Latest Preprints
-#      text: ""
-#      count: 5
-#      filters:
-#        folders:
-#          - publication
-#        publication_type: 'article'
-#    design:
-#      view: citation
-#      columns: '1'
+      view: citation
+      columns: '1'
 
 #  - block: markdown
 #    content:
