@@ -52,11 +52,7 @@ sections:
       page_type: post
     design:
       view: card
-      columns: '2'
-
-banner:
-  caption: ''
-  image: 'Banner.png'  
+      columns: '3' 
 
 #  - block: collection
 #    content:
