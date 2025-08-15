@@ -5,25 +5,63 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: markdown
+  - block: slider
     content:
-      title:
-      subtitle: ''
-      text:
-    design:
-      columns: '1'
-      background:
-        image: 
-          filename: Banner.png
-          filters:
-            brightness: 1
-          parallax: false
+      slides:
+      - title: 👋 Welcome to the group
+        content: Take a look at what we're working on...
+        align: center
+        background:
+          image:
+            filename: Banner.png
+            filters:
+              brightness: 0.7
+          position: right
+          color: '#666'
+          
+      - title: Nano-Optics & Biophysics Lab
+        content: ''
+        align: right
+        background:
+          image:
+            filename: welcome.jpg
+            filters:
+              brightness: 0.5
           position: center
-          size: cover
-          text_color_light: true
-      spacing:
-        padding: ['20px', '0', '20px', '0']
-      css_class: fullscreen
+          color: '#333'
+        link:
+          icon: graduation-cap
+          icon_pack: fas
+          text: Join Us
+          url: ../contact/
+    design:
+      # Slide height is automatic unless you force a specific height (e.g. '400px')
+      slide_height: ''
+      is_fullscreen: true
+      # Automatically transition through slides?
+      loop: false
+      # Duration of transition between slides (in ms)
+      interval: 2000
+
+#  - block: markdown
+#    content:
+#      title:
+#      subtitle: ''
+#      text:
+#    design:
+#      columns: '1'
+#      background:
+#        image: 
+#          filename: Banner.png
+#          filters:
+#            brightness: 1
+#          parallax: false
+#          position: center
+#          size: cover
+#          text_color_light: true
+#      spacing:
+#        padding: ['20px', '0', '20px', '0']
+#      css_class: fullscreen
   
   - block: hero
     content:
@@ -59,7 +97,7 @@ sections:
       title: News
       subtitle:
       text:
-      count: 5
+      count: 1
       filters:
         author: ''
         category: ''
