@@ -8,34 +8,34 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 👋 Welcome to the group
-        content: Take a look at what we're working on...
+      - title: Nano-Optics & Biophysics Lab
+        content: 'Hsiao Lab @ NYCU Electrophysics'
         align: center
         background:
           image:
-            filename: coders.jpg
+            filename: Banner.png
             filters:
               brightness: 0.7
           position: right
           color: '#666'
 
-      - title: Lunch & Learn ☕️
-        content: 'Share your knowledge with the group and explore exciting new topics together!'
-        align: left
+      - title: Nano-Optics & Biophysics Lab
+        content: 'Hsiao Lab @ NYCU Electrophysics'
+        align: center
         background:
           image:
-            filename: contact.jpg
+            filename: Lab_5.png
             filters:
               brightness: 0.7
-          position: center
-          color: '#555'
+          position: right
+          color: '#666'
           
-      - title: World-Class Semiconductor Lab
-        content: 'Just opened last month!'
+      - title: Nano-Optics & Biophysics Lab
+        content: ''
         align: right
         background:
           image:
-            filename: welcome.jpg
+            filename: Lab_3.jpg
             filters:
               brightness: 0.5
           position: center
@@ -44,7 +44,7 @@ sections:
           icon: graduation-cap
           icon_pack: fas
           text: Join Us
-          url: ../contact/
+          url: ../Lab_website/contact/
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: ''
