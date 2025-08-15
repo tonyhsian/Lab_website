@@ -121,7 +121,7 @@ sections:
       order: desc
       page_type: research
     design:
-      view: stream
+      view: card #stream
       columns: '2' 
 
   - block: collection
@@ -137,12 +137,12 @@ sections:
       view: citation
       columns: '2'
 
-#  - block: markdown
-#    content:
-#      title:
-#      subtitle:
-#      text: |
-#        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
-#    design:
-#      columns: '1'
+  - block: markdown
+    content:
+      title:
+      subtitle:
+      text: |
+        {{% cta cta_link="../Lab_website/contact/" cta_text="Join us →" %}}
+    design:
+      columns: '1'
 ---
