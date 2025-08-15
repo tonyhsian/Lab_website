@@ -24,7 +24,7 @@ sections:
         align: right
         background:
           image:
-            filename: Lab_03.jpg
+            filename: Lab_3.jpg
             filters:
               brightness: 0.5
           position: center
