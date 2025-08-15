@@ -88,10 +88,10 @@ sections:
 
   - block: collection
     content:
-      title: News
+      title: ''
       subtitle:
       text:
-      count: 1
+      count: 5
       filters:
         author: ''
         category: ''
