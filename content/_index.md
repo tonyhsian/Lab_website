@@ -14,7 +14,7 @@ sections:
       columns: '1'
       background:
         image: 
-          filename: Lab_4.png
+          filename: Banner.png
           filters:
             brightness: 1
           parallax: false
@@ -52,7 +52,7 @@ sections:
       page_type: post
     design:
       view: card
-      columns: '2' 
+      columns: '5' 
 
 #  - block: collection
 #    content:
