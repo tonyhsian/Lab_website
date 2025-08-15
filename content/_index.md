@@ -88,10 +88,10 @@ sections:
 
   - block: collection
     content:
-      title: ''
+      title: News
       subtitle:
       text:
-      count: 5
+      count: 3
       filters:
         author: ''
         category: ''
@@ -103,7 +103,7 @@ sections:
       page_type: post
     design:
       view: stream #card
-      columns: '1' 
+      columns: '2' 
 
   - block: collection
     content:
@@ -121,7 +121,7 @@ sections:
       order: desc
       page_type: research
     design:
-      view: card
+      view: stream
       columns: '2' 
 
   - block: collection
