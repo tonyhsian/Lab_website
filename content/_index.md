@@ -5,16 +5,6 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: hero
-    content:
-      title: |
-        Welcome to<br>Hsiao Lab@NYCU
-      image:
-        filename: Lab_1.png
-      text: |
-        <br>
-        We are developing innovative optical microscope techniques.
-  
   - block: markdown
     content:
       title:
@@ -34,7 +24,17 @@ sections:
       spacing:
         padding: ['20px', '0', '20px', '0']
       css_class: fullscreen
-
+  
+  - block: hero
+    content:
+      title: |
+        Welcome to<br>Hsiao Lab@NYCU
+      image:
+        filename: Lab_1.png
+      text: |
+        <br>
+        We are developing innovative optical microscope techniques.
+  
   - block: collection
     content:
       title: Latest News
@@ -52,7 +52,7 @@ sections:
       page_type: post
     design:
       view: card
-      columns: '3' 
+      columns: '2' 
 
 #  - block: collection
 #    content:
