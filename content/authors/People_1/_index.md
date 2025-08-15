@@ -73,4 +73,4 @@ user_groups:
   - Students
 ---
 
-If you are interested in joining us, please contact me (Prof. Yi-Teng Hsiao).
+If you are interested in joining us, please contact me (Dr. Yi-Teng Hsiao).
