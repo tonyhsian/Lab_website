@@ -18,7 +18,7 @@ sections:
         city: Hsinchu
         region: Taiwan
         postcode: '300'
-      directions: Science Building III
+      directions: 'Science Building III, Office: SC458, Lab: SC654'
       coordinates:
         latitude: '24.7882255'
         longitude: '120.9934156'

@@ -8,8 +8,8 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 👋 Welcome to the group
-        content: Take a look at what we're working on...
+      - title: Nano-Optics & Biophysics Lab
+        content: 'Hsiao Lab @ NYCU Electrophysics'
         align: center
         background:
           image:
@@ -24,7 +24,7 @@ sections:
         align: right
         background:
           image:
-            filename: welcome.jpg
+            filename: Lab_03.png
             filters:
               brightness: 0.5
           position: center
@@ -39,7 +39,7 @@ sections:
       slide_height: ''
       is_fullscreen: true
       # Automatically transition through slides?
-      loop: false
+      loop: true
       # Duration of transition between slides (in ms)
       interval: 2000
 
