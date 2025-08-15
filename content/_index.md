@@ -103,7 +103,7 @@ sections:
       page_type: post
     design:
       view: stream #card
-      columns: '2' 
+      columns: '1' 
 
   - block: collection
     content:
@@ -135,7 +135,7 @@ sections:
         publication_type: 'article-journal'
     design:
       view: citation
-      columns: '1'
+      columns: '2'
 
 #  - block: markdown
 #    content:
